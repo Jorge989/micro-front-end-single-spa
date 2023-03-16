@@ -4,3 +4,6 @@
 [submodule "react-single2"]
 	path = react-single2
 	url = https://github.com/Jorge989/react-single.git
+[submodule "react-parcel2"]
+	path = react-parcel2
+	url = https://github.com/Jorge989/react-parcel.git
