@@ -18,7 +18,7 @@ registerApplication({
 registerApplication({
   name: "@JA/react-multiples",
   app: () => System.import("@JA/react-multiples"),
-  activeWhen: (location) => location.pathname === "/react-multiples",
+  activeWhen: ["/react-multiples"],
 });
 registerApplication({
   name: "@JA/react-parcel",
